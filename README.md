@@ -1,6 +1,6 @@
-# Hello Names
+# Simple Name Capture App
 
-Hello Names is a simple full-stack web application that allows users to submit names and view a list of all submitted names in real time.  
+Simple Name Capture App is a simple full-stack web application that allows users to submit names and view a list of all submitted names in real time.  
 ---
 
 ## Tech Stack

@@ -36,7 +36,7 @@ node index.js
 ```
 The backend server will start at:
 ```
-http://localhost:3000
+http://localhost:5000
 ```
 Available API Endpoints
 

@@ -18,12 +18,13 @@ Hello Names is a simple full-stack web application that allows users to submit n
 ---
 
 ## Project Structure
+```
 hello-names/
 ├── VantaHireFrontEnd/ # React + Vite frontend
 ├── VantaHireBackEnd/ # Node.js + Express backend
 ├── README.md
 └── .gitignore
-
+```
 ---
 
 ## How to Run the Backend

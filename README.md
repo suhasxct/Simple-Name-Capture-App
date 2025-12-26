@@ -19,9 +19,9 @@ Simple Name Capture App is a simple full-stack web application that allows users
 
 ## Project Structure
 ```
-hello-names/
-├── VantaHireFrontEnd/ # React + Vite frontend
-├── VantaHireBackEnd/ # Node.js + Express backend
+Simple-Name-Capture-App/
+├── VantaHireFrontEnd/   # React + Vite frontend
+├── VantaHireBackEnd/    # Node.js + Express backend
 ├── README.md
 └── .gitignore
 ```

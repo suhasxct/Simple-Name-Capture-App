@@ -26,6 +26,12 @@ Simple-Name-Capture-App/
 └── .gitignore
 ```
 ---
+## Clone the Repository
+
+```bash
+git clone https://github.com/<your-username>/Simple-Name-Capture-App.git
+cd Simple-Name-Capture-App
+```
 
 ## How to Run the Backend
 
@@ -48,13 +54,13 @@ Available API Endpoints
 
 
 # How to Run the Frontend
-```
+```bash
 cd VantaHireFrontEnd
 npm install
 npm run dev
 ```
 The frontend will be available at:
-```
+```bash
 http://localhost:5173
 ```
 
@@ -63,7 +69,7 @@ http://localhost:5173
 The frontend uses a Vite environment variable for the API base URL.
 
 Create a .env file inside VantaHireFrontEnd/:
-```
+```bash
 VITE_API_URL=http://localhost:5000/api
 ```
 
